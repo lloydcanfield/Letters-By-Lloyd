@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lloydcanfield/LettersByLloyd # Path to your GitHub repository
+  repo: lloydcanfield/Letters-By-Lloyd # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: FamiliarFonts.netlify.app #Your site on netlify
   use_graphql: true
