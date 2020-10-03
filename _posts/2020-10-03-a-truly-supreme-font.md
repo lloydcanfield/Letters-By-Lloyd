@@ -2,7 +2,7 @@
 layout: post
 title: A Truly Supreme Font
 date: 2020-10-03T10:37:40.832Z
-header_feature_image: ../uploads/supreme-bogo.png
+header_feature_image: ../uploads/supreme-manahatten.jpg
 caption: The iconic Supreme 'Box Logo'
 comments: true
 ---
