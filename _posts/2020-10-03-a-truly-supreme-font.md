@@ -3,7 +3,7 @@ layout: post
 title: A Truly Supreme Font
 date: 2020-10-03T10:37:40.832Z
 header_feature_image: ../uploads/supreme-manahatten.jpg
-caption: The iconic Supreme 'Box Logo'
+caption: The first Supreme store in Manhattan.
 comments: true
 ---
 Supreme New York is one of the biggest clothing brands in the entire world, the brand is the king of the streetwear fashion scene and the scarcity of items on a release day means that they often fetch 3 to 5 times their initial retail price on the resale market. Supreme's box logo is recognised worldwide and is often a key selling point for many items that they release, the main features of the logo are the stand out colourway and smooth Futura font. 
