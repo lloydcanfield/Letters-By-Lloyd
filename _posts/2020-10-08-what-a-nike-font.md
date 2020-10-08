@@ -2,7 +2,7 @@
 layout: post
 title: How a $35 Font made billions...
 date: 2020-10-08T15:41:08.494Z
-header_feature_image: ../uploads/images.png
+header_feature_image: ../uploads/jdi-ranger.jpg
 caption: The famous Nike logo, from fontsempire.com
 comments: true
 ---
