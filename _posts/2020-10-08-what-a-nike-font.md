@@ -8,7 +8,7 @@ comments: true
 ---
 # **About NIKE**
 
-Founded on January 25th 1964, Nike has transformed in to one of the biggest brands in the entire world. The sporting giants were ranked 89th in the 2018 fortune 500 list of the largest US Corporations, ranked by total revenue, and was worth an estimated 30 billion dollars in 2017. Nike are the leading supplier of athletic shoes and apparel and have worked with a range of celebrities including Cristiano Ronaldo, Colin Kaepernick, Kobe Bryant and many many more. 
+Founded on January 25th 1964, Nike has transformed in to one of the biggest brands in the entire world. The sporting giants were ranked 89th in the 2018 fortune 500 list of the largest US Corporations, ranked by total revenue, and was worth an estimated 30 billion dollars in 2017, despite the font which appeared on the logo only costing $35! Nike are the leading supplier of athletic shoes and apparel and have worked with a range of celebrities including Cristiano Ronaldo, Colin Kaepernick, Kobe Bryant and many many more. 
 
 # **NIKE's Logo**
 
