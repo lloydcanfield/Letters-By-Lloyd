@@ -9,5 +9,5 @@ bannerheight: 20vmax
 logo: ../uploads/crafts-paperie.png
 favicon: /uploads/favicon.ico
 gridlayout: true
-fixednavbar: false
+fixednavbar: true
 upzoom: true
