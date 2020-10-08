@@ -1,20 +1,19 @@
 ---
 layout: page
-title: About
+title: About FamiliarFonts
+subtitle: Learn about our business!
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/crafts-paperie.png
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+I'm Lloyd Canfield, and this is my website - FamiliarFonts!
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+FamiliarFonts is a website all about the wonderful world of typographic design, on this site we discuss popular fonts to educate those interested in typography on why certain brands are so successful!
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+In our articles you can expect to find out a bit of background information about the brands (always good for pub quizzes!) and also learn what fonts the company uses and why it is effective and fits their audience.
 
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I hope you enjoy your time browsing!
