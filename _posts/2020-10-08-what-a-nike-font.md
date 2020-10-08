@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What a NIKE font.
+title: How a $35 Font made billions...
 date: 2020-10-08T15:41:08.494Z
 header_feature_image: ../uploads/images.png
 caption: The famous Nike logo, from fontsempire.com
