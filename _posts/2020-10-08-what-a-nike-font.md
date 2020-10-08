@@ -2,8 +2,8 @@
 layout: post
 title: How a $35 Font made billions...
 date: 2020-10-08T15:41:08.494Z
-header_feature_image: ../uploads/jdi-ranger.jpg
-caption: The famous Nike logo, from fontsempire.com
+header_feature_image: ../uploads/nike-logo-evo.jpg
+caption: The Nike logo evolution from medium.com
 comments: true
 ---
 # **About NIKE**
@@ -14,7 +14,7 @@ Founded on January 25th 1964, Nike has transformed in to one of the biggest bran
 
 The Nike logo is one of the most iconic in the world, it has evolved over the years and has traditionally been comprised of the Nike Swoosh and then some lettering above or overlapping the Swoosh, however, this has changed in recent years, as now the Nike Swoosh is so iconic and recognisable globally that they no longer need to have any text naming the brand. 
 
-![](../uploads/nike-logo-evo.jpg "Nike Logo Evolution from Designyourway.net")
+![]()
 
 # NIKE's Font
 
