@@ -8,6 +8,6 @@ header_feature_image: ../uploads/copy-of-untitled-8-.png
 bannerheight: 20vmax
 logo: ../uploads/crafts-paperie.png
 favicon: /uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
