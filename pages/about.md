@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About FamiliarFonts
-subtitle: Learn about our business!
+title: About
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 header_feature_image: ../uploads/crafts-paperie.png
