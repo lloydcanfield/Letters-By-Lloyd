@@ -2,7 +2,7 @@
 layout: post
 title: What a NIKE font.
 date: 2020-10-08T15:41:08.494Z
-header_feature_image: ../uploads/jdi.jpg
+header_feature_image: ../uploads/nikkk.png
 caption: The famous Nike logo, from fontsempire.com
 comments: true
 ---
