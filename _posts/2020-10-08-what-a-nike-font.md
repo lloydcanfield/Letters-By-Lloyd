@@ -14,7 +14,7 @@ Founded on January 25th 1964, Nike has transformed in to one of the biggest bran
 
 The Nike logo is one of the most iconic in the world, it has evolved over the years and has traditionally been comprised of the Nike Swoosh and then some lettering above or overlapping the Swoosh, however, this has changed in recent years, as now the Nike Swoosh is so iconic and recognisable globally that they no longer need to have any text naming the brand. 
 
-![]()
+![](../uploads/nike-logo-evo.jpg "Nike Logo Evolution from medium.com")
 
 # NIKE's Font
 
