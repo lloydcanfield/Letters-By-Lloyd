@@ -2,7 +2,7 @@
 layout: post
 title: How a $35 Font made billions...
 date: 2020-10-08T15:41:08.494Z
-header_feature_image: ../uploads/nike-logo-evo.jpg
+header_feature_image: ../uploads/untitled-design.png
 caption: The Nike logo evolution from medium.com
 comments: true
 ---
