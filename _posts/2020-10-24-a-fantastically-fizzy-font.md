@@ -18,7 +18,7 @@ These marketing strategies can be broken down into two key features, the physica
 
 Coca-Cola didn't initially burst onto the scene and become the most famous drink in the world in the 19th century, their first step was to make a captivating product - they did this by essentially mixing cola with alcohol and cocaine, yes, cocaine, the drug. And you wonder why the product is so addictive. Fortunately in 1905, laws forced beverage makers to quit putting alcohol into soft drinks. The official recipe is actually locked in a vault in Atlanta, but their addictive product is clearly one of the reasons as to why the brand is so popular
 
-
+![](../uploads/untitled-design-3-.png "Coca-Cola Botlle ")
 
 # The Logo
 
