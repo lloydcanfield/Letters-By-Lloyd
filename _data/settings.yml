@@ -4,9 +4,9 @@ description: Welcome to Familiar Fonts! We explore some of the most recognisable
   with and represent their given brand! Enjoy!
 header_text: ""
 footer_text: Copyright 2020 Lloyd Canfield
-header_feature_image: ../uploads/favicon.ico
+header_feature_image: ../uploads/crafts-paperie.png
 bannerheight: 20vmax
-logo: ../uploads/familiar-fonts-5-.png
+logo: ../uploads/favicon.ico
 favicon: ../uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
