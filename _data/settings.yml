@@ -11,3 +11,7 @@ favicon: ../uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
 upzoom: true
+items:
+  - name: About Lloyd Canfield
+    siteurl: /aboutme
+    tab: true
