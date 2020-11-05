@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High End Fashion Fonts
+title: A High End Fashion Font
 date: 2020-11-05T20:15:25.471Z
 header_feature_image: ../uploads/untitled-design-4-.png
 caption: A Gucci Bag Being Modelled
